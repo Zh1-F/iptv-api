@@ -1,29 +1,39 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Zh1-F/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="http://10.1.0.63:5180/logo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-02-02 21:36:10
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.254:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-02 21:40:37
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1770091200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-35fa9937b230f039e277dbfc991baf37&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="http://10.1.0.254:5180/logo/CCTV-4.png",CCTV-4
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1770091200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-35fa9937b230f039e277dbfc991baf37&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="http://10.1.0.254:5180/logo/CCTV-8.png",CCTV-8
+http://183.196.25.171:808/hls/77/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="http://10.1.0.254:5180/logo/CCTV-9.png",CCTV-9
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=be7c01ea604ee2658a97ab00066b2091
+#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="http://10.1.0.254:5180/logo/CCTV-11.png",CCTV-11
+http://183.196.25.171:808/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-17" tvg-logo="http://10.1.0.254:5180/logo/CCTV-17.png",CCTV-17
+http://183.196.25.171:808/hls/93/index.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://10.1.0.254:5180/logo/凤凰中文.png",凤凰中文
 http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://10.1.0.63:5180/logo/凤凰中文.png",凤凰中文
-http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://10.1.0.63:5180/logo/凤凰资讯.png",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="http://10.1.0.254:5180/logo/凤凰资讯.png",凤凰资讯
 http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://10.1.0.63:5180/logo/湖南卫视.png",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://10.1.0.254:5180/logo/湖南卫视.png",湖南卫视
 http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://10.1.0.63:5180/logo/河南卫视.png",河南卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://10.1.0.254:5180/logo/河南卫视.png",河南卫视
 http://121.12.173.61/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ac1c93afb177376b6d3a5dfbd3ce7e7c&wsTime=1770050500&wsSession=d3823e6e4200ef228ef6329a-177003775942385&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://10.1.0.63:5180/logo/海南卫视.png",海南卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://10.1.0.254:5180/logo/海南卫视.png",海南卫视
 https://livelyws.chinamcache.com/lyws/zb03.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://10.1.0.63:5180/logo/山西卫视.png",山西卫视
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://10.1.0.254:5180/logo/山西卫视.png",山西卫视
 https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/s1sh84V.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://10.1.0.63:5180/logo/东南卫视.png",东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://10.1.0.254:5180/logo/东南卫视.png",东南卫视
 https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=20e9d4051770046803
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://10.1.0.63:5180/logo/重庆卫视.png",重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://10.1.0.254:5180/logo/重庆卫视.png",重庆卫视
 http://p2.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202602022052/app_2/_definst_/ls_2.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://10.1.0.63:5180/logo/陕西卫视.png",陕西卫视
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://10.1.0.254:5180/logo/陕西卫视.png",陕西卫视
 http://stream.snrtv.com/sxbc-star-elHPQY.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://10.1.0.63:5180/logo/甘肃卫视.png",甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://10.1.0.254:5180/logo/甘肃卫视.png",甘肃卫视
 https://liveout.gstv.com.cn/skt649/p9xpey.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://10.1.0.63:5180/logo/云南卫视.png",云南卫视
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://10.1.0.254:5180/logo/云南卫视.png",云南卫视
 https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="http://10.1.0.63:5180/logo/三沙卫视.png",三沙卫视
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="http://10.1.0.254:5180/logo/三沙卫视.png",三沙卫视
 https://srs.ssws.tv/video/sstv-10/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://10.1.0.63:5180/logo/金鹰卡通.png",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://10.1.0.254:5180/logo/金鹰卡通.png",金鹰卡通
 http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPWVhYzhmOWNmYjU3NGUwZTA2NmI5OWFmNWRmODUwMWVkJnVpZD0mdXVpZD03MTU5YWVhNmI2NDcyOWI4ODgyZDUxMGMyM2FlMjExNy02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzcwMDY1ODA3/JYKTMPP360.m3u8
