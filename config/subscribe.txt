@@ -15,4 +15,15 @@ https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
+http://www.饭太硬.com/tv
+http://fan.xxooo.cf/tv
+http://xhww.fun/小米/DEMO.json
+http://肥猫.live
+https://tvbox.cainisi.cf
+https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+https://100km.top/0
+http://tv.rihou.cc/天天开心
+http://rihou.cc:88/荷城茶秀
+https://agit.ai/hu/hcr/raw/branch/master/短剧.json
+https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
