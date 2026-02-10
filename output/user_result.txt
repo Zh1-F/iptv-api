@@ -1,36 +1,35 @@
 🕘️更新时间,#genre#
-2026-02-02 22:07:38,http://125.125.236.22:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-02-10 20:23:46,http://125.125.236.22:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-3,http://125.125.236.22:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://125.125.236.22:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://125.125.236.22:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://125.125.236.22:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://125.125.236.22:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://125.125.236.22:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://125.125.236.22:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-11,http://125.125.236.22:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://125.125.236.22:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://125.125.236.22:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://125.125.236.22:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://125.125.236.22:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://125.125.236.22:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://125.125.236.22:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://125.125.236.22:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡卫视频道,#genre#
+浙江卫视,http://125.125.236.22:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://125.125.236.22:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://125.125.236.22:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://125.125.236.22:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://125.125.236.22:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=20e9d4051770046803
 甘肃卫视,https://liveout.gstv.com.cn/skt649/p9xpey.m3u8
 海南卫视,https://livelyws.chinamcache.com/lyws/zb03.m3u8
 河南卫视,http://125.125.236.22:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/s1sh84V.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-elHPQY.m3u8
-三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
-云南卫视,http://125.125.236.22:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://125.125.236.22:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://125.125.236.22:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://125.125.236.22:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://125.125.236.22:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://125.125.236.22:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://125.125.236.22:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://125.125.236.22:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/s1sh84V.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-elHPQY.m3u8
 深圳卫视,http://125.125.236.22:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://125.125.236.22:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
+云南卫视,http://125.125.236.22:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0

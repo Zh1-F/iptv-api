@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://g.blfrp.cn/https://raw.githubusercontent.com/Zh1-F/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.189:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-02 22:07:38
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.1.105:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-02-10 20:23:46
 https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=20e9d4051770046803
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://10.1.0.189:5180/logo/东南卫视.png" group-title="📡卫视频道",东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://10.1.1.105:5180/logo/东南卫视.png" group-title="📡卫视频道",东南卫视
 https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=20e9d4051770046803
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://10.1.0.189:5180/logo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://10.1.1.105:5180/logo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 https://liveout.gstv.com.cn/skt649/p9xpey.m3u8
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://10.1.0.189:5180/logo/海南卫视.png" group-title="📡卫视频道",海南卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://10.1.1.105:5180/logo/海南卫视.png" group-title="📡卫视频道",海南卫视
 https://livelyws.chinamcache.com/lyws/zb03.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://10.1.0.189:5180/logo/山西卫视.png" group-title="📡卫视频道",山西卫视
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://10.1.1.105:5180/logo/山西卫视.png" group-title="📡卫视频道",山西卫视
 https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/s1sh84V.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://10.1.0.189:5180/logo/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://10.1.1.105:5180/logo/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://stream.snrtv.com/sxbc-star-elHPQY.m3u8
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="http://10.1.0.189:5180/logo/三沙卫视.png" group-title="📡卫视频道",三沙卫视
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="http://10.1.1.105:5180/logo/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 https://srs.ssws.tv/video/sstv-10/index.m3u8
